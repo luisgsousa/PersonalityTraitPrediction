@@ -1,0 +1,5 @@
+essays dataset:
+https://github.com/amirmohammadkz/personality_detection/blob/main/essays_original_splitted.csv
+
+PAN15:
+https://pan.webis.de/clef15/pan15-web/author-profiling.html

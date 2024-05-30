@@ -1,0 +1,3 @@
+preprocessing(lowercase=1, punctuation_rem=1, url_rem=1, digit_rem=0, emoji_rem=1, special_char_rem=1, mention_repl=1, hashtag_repl=1, expand_contractions=1, lemmatize=1)
+
+mentions replaced by "[USER]"
